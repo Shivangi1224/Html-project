@@ -1,0 +1,25 @@
+* {
+    font-family: cursive;
+    font-size: 20px;
+}
+h1 {
+    background-color: tomato;
+}
+h2{
+    background-color: greenyellow;
+}
+body {
+    background-color: beige;
+}
+table {
+  border-collapse: collapse;
+   margin: auto; /*This line aligns the table to centre */
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+figcaption {
+    text-decoration: wavy underline;
+}
